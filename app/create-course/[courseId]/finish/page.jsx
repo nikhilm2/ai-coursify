@@ -27,7 +27,7 @@ function FinishScreen({params}) {
   return (
     <div className='px-10 md:px-20 lg:px-44 my-7'>
       <h2 className='text-center font-bold text-2xl my-3 text-primary '>Congrats! Your course is Ready</h2>
-      <CourseBasicInfo course={course} refreshData={()=>console.log()}/>
+      <CourseBasicInfo course={course} edit={false} refreshData={()=>console.log()}/>
         <h2>{}</h2>
     </div>
   )
