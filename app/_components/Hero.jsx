@@ -6,10 +6,10 @@ function Hero() {
     <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
       <div className="mx-auto max-w-xl text-center">
         <h1 className="text-10xl font-extrabold sm:text-5xl text-white">
-         AI-Driven Course Gen
-          <strong className="font-extrabold text-red-400 sm:block"> Increase Learning. </strong>
+         Welcome to Mind Geeks!
+          
         </h1>
-  
+        <h2><strong className="font-extrabold text-3xl text-yellow-400 sm:block">Your AI-Driven Course Gen to Increase Learning. </strong></h2>
         <p className="mt-4 sm:text-xl/relaxed text-white w-full">
           Create Your Desired Course in Tech, Coding, Finance and many more categories, with AI-driven tech.
         </p>
